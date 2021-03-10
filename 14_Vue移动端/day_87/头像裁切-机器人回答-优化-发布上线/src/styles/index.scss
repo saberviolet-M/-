@@ -1,0 +1,10 @@
+// 控制头部导航栏的通用样式
+.van-nav-bar {
+  background-color: #3196fa;
+  .van-nav-bar__title {
+    color: white;
+  }
+  .van-icon {
+    color: white;
+  }
+}
