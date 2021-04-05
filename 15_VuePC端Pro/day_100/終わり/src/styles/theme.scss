@@ -1,0 +1,49 @@
+// 这个文件, 专门用于配置主题色样式
+// 目前支持: skyblue-theme deepblue-theme molv-theme default-theme
+.skyblue-theme {
+  // 头部按钮
+  .breadBtn {
+    background-color: orange!important;
+  }
+  .tags-view-container .tags-view-wrapper .tags-view-item.active {
+    background-color: orange!important;
+    border-color: orange!important;
+  }
+  // ...
+
+  // ...
+
+  // ...
+
+  // ...
+}
+
+
+.deepblue-theme {
+  // 头部按钮
+  .breadBtn {
+    background-color: purple!important;
+  }
+  // ...
+
+  // ...
+
+  // ...
+
+  // ...
+}
+
+.molv-theme {
+  // 头部按钮
+  .breadBtn {
+    background-color: brown!important;
+  }
+  // ...
+
+  // ...
+
+  // ...
+
+  // ...
+}
+
